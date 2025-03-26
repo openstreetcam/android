@@ -1,2 +1,1 @@
-# android
-Grab Bugbounty POC
+# Grab Bugbounty POC
